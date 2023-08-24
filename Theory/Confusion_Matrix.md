@@ -2,6 +2,8 @@
 * Overall accuracy can sometimes be a deceptive measure because of unbalanced classes.
 * A general improvement to using overall accuracy is to study sensivity and specificity separately
 * A confusion matrix tabulates each combination of prediction and actual value
+
+* Code to make a confusion matrix on r:
   
   ```r
     #tabulate each combination of prediction and actual value
