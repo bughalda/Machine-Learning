@@ -17,3 +17,5 @@
     
     confusionMatrix(data = y_hat, reference = test_set$sex)
   ```
+![SSP](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/1.png)
+![SSP2](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/2.png)
