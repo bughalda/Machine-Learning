@@ -10,5 +10,6 @@
 ![img1](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/25.png)
 ![img1](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/26.png)
 # Kernel
+![img1](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/29.png)
 ![img1](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/27.png)
 ![img1](https://github.com/AldahirLopezNavarrete/Machine-Learning/blob/main/Theory/images/28.png)
